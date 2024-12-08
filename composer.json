@@ -1,0 +1,22 @@
+{
+    "name": "davidpeach/aoc-2024",
+    "description": "Advent of Code 2024 in PHP",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5",
+        "phpstan/phpstan": "^2.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Davidpeach\\Aoc2024\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David Peach",
+            "email": "mail@davidpeach.co.uk"
+        }
+    ],
+    "require": {}
+}
